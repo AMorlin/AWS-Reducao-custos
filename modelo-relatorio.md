@@ -36,6 +36,8 @@ A seguir, serão descritas as etapas do projeto:
 
 * Descrição de caso de uso: Migrar todos os sites estáticos da empresa AMC Indústrias para o serviço Amazon S3, armazenando todos os arquivos do site estático como objetos dentro de um "bucket" no S3. Dessa forma é possível eliminar servidores físicos de hospedagem web, reduzindo custos com hardware, manutenção e obtendo alta escalabilidade. Dessa forma, podemos integrar os sites estáticos no bucket com serviços da AWS como API Gateway chamando funções de backend no Amazon Lamba
 
+## Conclusão
+* A implementação de ferramentas na empresa AMC Indústrias tem como esperado a redução de custos com infraestrutura computacional, elasticidade nos serviços na nuvem e a facilidade no gerenciamento utilizando serviços sem servidor, o que aumentará a eficiência e produtividade da empresa. É indispensável a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias afim de melhorar ainda mais os processos da empresa.
 
 ## Anexos:
 EC2 - https://aws.amazon.com/pt/ec2/
